@@ -133,3 +133,8 @@ node_modules/
 package-lock.json
 build/
 
+# Submissions & automation
+submission_files/
+generate_submissions.py
+
+
